@@ -1,0 +1,14 @@
+I am not providing the regular Daily diary. I am sorry.
+
+I used this course to refresh my knowledge about webdesign.
+In my previous study at my home university, I learned 2 semesters about webdesign.
+But I have to say that at my home university I was not that motivated to produce such a beautiful project.
+And this project will be in my portfolio.
+The videos which were provided taught me that it is also possible to create a responsive design
+without complicated, long, pre-programmed code that's hard to understand. @media in a .css file was new to
+me and I realy liked it. Because I was so motivated I programmed the Responsive Masonry Layout. It is
+a kind of pinterest layout and i realy liked it so I programmed it.
+In the beginning I had to struggle with the menubar but I was able to fix it and I was able to
+programm the responsive mansonry layout.
+Pushing the whole project to github was also a new and in the beginning a confusing task but 
+I managed it and I was capable to develop the project on git hub pages.
