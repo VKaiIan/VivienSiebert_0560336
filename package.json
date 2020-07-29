@@ -3,12 +3,14 @@
   "version": "1.0.0",
   "description": "responsive home design website",
   "main": "index.js",
+  "homepage": "https://VKaiIan.github.io/VivienSiebert_0560336",
   "dependencies": {
     "gh-pages": "^3.1.0"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -18,6 +20,5 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/VKaiIan/modern_design/issues"
-  },
-  "homepage": "https://github.com/VKaiIan/modern_design#readme"
+  }
 }
