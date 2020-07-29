@@ -11,4 +11,5 @@ a kind of pinterest layout and i realy liked it so I programmed it.
 In the beginning I had to struggle with the menubar but I was able to fix it and I was able to
 programm the responsive mansonry layout.
 Pushing the whole project to github was also a new and in the beginning a confusing task but 
-I managed it and I was capable to develop the project on git hub pages.
+I managed it and I was capable to develop the project on git hub pages but somehow only my index.html site was published
+and I could not find the mistake. 
